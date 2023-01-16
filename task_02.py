@@ -4,3 +4,5 @@ def invert(lst):
     return [-c  for c in lst]
 
 print(invert([-1,-2,-3,-4,-5]))
+
+# Выполнено
