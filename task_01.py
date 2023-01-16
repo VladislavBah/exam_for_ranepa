@@ -5,3 +5,5 @@ def past(h, m, s):
     return ms
 
 print(past(0,1,1))
+
+# Выполнено
